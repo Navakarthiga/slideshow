@@ -1,0 +1,29 @@
+.slider-holder
+        {
+            width: 800px;
+            height: 600px;
+            
+        }
+        
+        .image-holder
+        {
+            width: 3200px;
+            background-color: burlywood;
+            height: 600px;
+            clear: both;
+            position: absolute;
+            
+            -webkit-transition: left 2s;
+            -moz-transition: left 2s; 
+            -o-transition: left 2s;
+            transition: left 2s;
+        }
+        
+        .slider-image
+        {
+            float: left;
+            margin: 0px;
+            padding: 0px;
+
+        }
+        
